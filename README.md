@@ -42,25 +42,6 @@ An advanced feature of the system is **Ambulance Routing**, which computes the *
 
 ---
 
-## 📂 Project Structure  
-
-Hospital-Management-System/
-│
-├── src/ # Source files
-│ ├── main.cpp # Entry point
-│ ├── Doctor.cpp / Doctor.h # Doctor class
-│ ├── Receptionist.cpp / .h # Receptionist class
-│ ├── MedicalStore.cpp / .h # Medical store management
-│ ├── Admin.cpp / .h # Admin functionalities
-│ ├── Ambulance.cpp / .h # Routing using Dijkstra
-│
-├── data/ # Stores hospital data
-│ ├── doctors.txt
-│ ├── medicines.txt
-│ ├── appointments.txt
-│
-├── README.md # Project documentation
-├── Makefile / CMakeLists.txt # Build configuration
 
 
 ---
